@@ -1,9 +1,5 @@
-### Ciao, I'm Suman Mandal! 👋
+Ciao, I'm Suman Mandal! 👋
 
-<!--
-**man-su-97/man-su-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mobile App Devlopment
 - 🌱 I’m currently learning Flutter
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin - @suman-mandal-130024186
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to Fix things 
--->
+
