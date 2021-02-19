@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter Devlopment
 - 🤔 I’m looking for help with DataBase and API
 - 💬 Ask me about Data Structure and Algorithm
-- 📫 How to reach me:  [Linkedln - @suman-mandal-130024186](https://www.linkedin.com/in/suman-mandal-130024186/)
+- 📫 How to reach me:  [Linkedln - @Suman Mandal](https://www.linkedin.com/in/suman-mandal-130024186/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to Fix things 
 
