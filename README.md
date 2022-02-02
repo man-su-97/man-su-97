@@ -1,9 +1,9 @@
-## Ciao, I'm [Suman Mandal!](https://suman.live) 👋
+## Ciao, I'm [Suman !](https://man-su-97.github.io/my-personal-site/) 👋
+ Happy to see you here!
 
-
-- 🔭 I’m currently working on Mobile App Devlopment
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter Devlopment
+- 🔭 I’m currently working on Web Devlopment
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on Web Devlopment
 - 🤔 I’m looking for help with DataBase and API
 - 💬 Ask me about Data Structure and Algorithm
 - 📫 How to reach me:  [Linkedln - @Suman Mandal](https://www.linkedin.com/in/suman-mandal-130024186/)
@@ -14,9 +14,13 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
 <a href="https://github.com/man-su-97">
