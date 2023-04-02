@@ -1,8 +1,8 @@
 ## Ciao, I'm [Suman !](https://man-su-97.github.io/my-personal-site/) 👋
  Happy to see you here!
 
-- 🔭 I’m currently working on Web Devlopment
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on Frontend Devlopment
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Devlopment
 - 🤔 I’m looking for help with DataBase and API
 - 💬 Ask me about Data Structure and Algorithm
