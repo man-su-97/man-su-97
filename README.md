@@ -11,7 +11,7 @@ Apart from programming, I also take an active interest in playing Badminton .
 - 🤔 I’m looking for help with DataBase and API
 - 💬 Ask me about Data Structure and Algorithm
 - 📫 How to reach me:  [Linkedln - @Suman Mandal](https://www.linkedin.com/in/suman-mandal-130024186/)
-- -RESUME: [Click Here](https://drive.google.com/file/d/1WchL0zVq3FI0iuGOhEhC9K71GV72Hlws/view?usp=share_link)
+- RESUME: [Click Here](https://drive.google.com/file/d/1WchL0zVq3FI0iuGOhEhC9K71GV72Hlws/view?usp=share_link)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to Fix things 
 
