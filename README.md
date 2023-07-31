@@ -1,13 +1,19 @@
 ## Hello there <img src="https://raw.githubusercontent.com/sahil-75/random-assets/master/wave.gif" width="25px">, I am Suman!
 
-I’m currently working on Frontend Devlopment. I am intersted in developing web and mobile applications to solve real-life problems. Currently exploring Javascript it's innumerable use cases, and a few of its frameworks like React JS .
+Hello! I'm a motivated and enthusiastic fresher with a strong passion for web development, particularly in React.js. I have recently completed my education in IT (B.tech) and am now eager to kick-start my career as a Frontend Developer.
 
-Apart from programming, I also take an active interest in playing Badminton .
+Throughout my academic journey, I have gained a solid foundation in HTML, CSS, and JavaScript, and I dedicated extra time to mastering React.js. I love how React enables me to build dynamic and interactive user interfaces efficiently.
+
+As a fast learner and a detail-oriented individual, I thrive on tackling new challenges and working collaboratively with teams to deliver high-quality projects. I am excited about the prospect of contributing my skills and creativity to make a positive impact in the world of web development.
+
+If you have an opportunity that aligns with my skills and goals, I would love to be part of your team. Let's connect and explore how my passion for React.js can add value to your projects.
+
+Apart from programming, I also take an active interest in playing Badminton.
 
 ---
 
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Web Devlopment
+- 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with DataBase and API
 - 💬 Ask me about Data Structure and Algorithm
 - 📫 How to reach me:  [Linkedln - @Suman Mandal](https://www.linkedin.com/in/suman-mandal-130024186/)
