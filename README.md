@@ -1,4 +1,4 @@
-## Hello there <img src="https://raw.githubusercontent.com/sahil-75/random-assets/master/wave.gif" width="25px">,
+## Hello <img src="https://raw.githubusercontent.com/sahil-75/random-assets/master/wave.gif" width="25px">
 
 
 
