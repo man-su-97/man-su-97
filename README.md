@@ -1,6 +1,7 @@
 ## Hello <img src="https://raw.githubusercontent.com/sahil-75/random-assets/master/wave.gif" width="25px">
 
-
+🚀 Frontend Developer | Next.js Enthusiast
+Welcome to my GitHub profile! I'm a passionate frontend developer dedicated to crafting beautiful, responsive, and performant web applications. With a strong focus on Next.js, I excel at bringing ideas to life with clean code and intuitive user experiences.
 
 ## My Primary Skillset
 
