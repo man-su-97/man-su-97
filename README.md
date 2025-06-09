@@ -14,17 +14,19 @@
 </p>
 
 
-## My GitHub Stats
+📈 My GitHub Contributions
+&lt;a href="[suspicious link removed]">
+&lt;img align="center" src="[suspicious link removed]" alt="Suman's Top Languages"/>
+&lt;/a>
+&lt;a href="[suspicious link removed]">
+&lt;img align="center" src="[suspicious link removed]" alt="Suman's GitHub Stats"/>
+&lt;/a>
 
-<a href="https://github.com/man-su-97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=man-su-97&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/man-su-97">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=man-su-97&show_icons=true&theme=light&line_height=27" alt="Suman's github stats"/>
-</a>
+&lt;div align="center">
+&lt;br>
 
-<div align="center">
-
-### I ❤️ "0" == [] !
+I ❤️ "0" == [] !
+&lt;br>
+&lt;/div>
 
 </div>
