@@ -14,19 +14,6 @@
 </p>
 
 
-📈 My GitHub Contributions
-&lt;a href="[suspicious link removed]">
-&lt;img align="center" src="[suspicious link removed]" alt="Suman's Top Languages"/>
-&lt;/a>
-&lt;a href="[suspicious link removed]">
-&lt;img align="center" src="[suspicious link removed]" alt="Suman's GitHub Stats"/>
-&lt;/a>
 
-&lt;div align="center">
-&lt;br>
-
-I ❤️ "0" == [] !
-&lt;br>
-&lt;/div>
 
 </div>
