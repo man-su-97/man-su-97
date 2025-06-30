@@ -21,13 +21,13 @@ Welcome to my GitHub profile! I'm a passionate frontend developer dedicated to b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="200" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=300" />
-  <img height="200" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" />
+  <img height="200" src="https://my-stats-43gk.vercel.app/api?username=man-su-97&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=300" />
+  <img height="200" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=man-su-97&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
-  <img height="140" src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+  <img height="200" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=man-su-97&theme=radical"/>
+  <img height="140" src="https://github-profile-trophy.vercel.app/?username=man-su-97&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </p>
 
 ---
@@ -43,5 +43,5 @@ Welcome to my GitHub profile! I'm a passionate frontend developer dedicated to b
 ## 👁 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  <img src="https://profile-counter.glitch.me/_man-su-97/count.svg" />
 </p>
