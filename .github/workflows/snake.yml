@@ -1,0 +1,28 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: man-su-97
+          outputs: |
+            ./contributions.svg
+
+      - name: Commit and Push contribution.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "chore: update contribution graph [automated]"
+          add: "contributions.svg"
