@@ -31,7 +31,7 @@ I'm a full stack developer with 1.5+ years of experience shipping production app
 **AI & Data**
 <p>
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img alt="Anthropic" src="https://img.shields.io/badge/-Claude API-D97757?style=flat&logoColor=white" />
+  <img alt="Claude API" src="https://img.shields.io/badge/-Claude API-D97757?style=flat&logoColor=white" />
   <img alt="DuckDB" src="https://img.shields.io/badge/-DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
@@ -72,5 +72,5 @@ I'm a full stack developer with 1.5+ years of experience shipping production app
 ## 👁 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/_man-su-97/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=man-su-97&style=flat&color=blueviolet&label=Profile+Views" />
 </p>
