@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header" width="100%"/>
 
 # Suman Mandal
-### Full Stack Developer · AI Integrations · Next.js · FastAPI
+### Full Stack Developer · GenAI & RAG Engineering · Next.js · FastAPI
 
 <a href="mailto:sumanmandal15135@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+applications;Next.js+%2B+FastAPI+%2B+Docker+%2B+AWS;RAG+%7C+LLM+APIs+%7C+Real-time+Dashboards;1.5%2B+years+shipping+production+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+LLM-powered+products+end+to+end;RAG+%7C+Hybrid+Search+%7C+LangGraph+Agents+%7C+Evaluation;Next.js+%2B+FastAPI+%2B+Docker+%2B+GitHub+Actions;2%2B+years+shipping+production+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,18 +25,40 @@
 
 ## About Me
 
-Full Stack Developer with 1.5+ years of experience building and shipping production-grade web applications. Currently at **A&J Intelli System**, building an AI-powered analytics platform that converts CSV/Excel datasets into interactive dashboards with a RAG-based chat interface for querying structured data.
+Full Stack Developer with **2+ years** of production experience, now specialising in **GenAI / LLM engineering** — building RAG pipelines, agents, and the production engineering around them (evaluation, safety, observability). Currently at **A&J Intelli Systems**, where I lead the RAG pipeline behind an AI analytics platform that turns CSV/Excel datasets into dashboards with a natural-language chat interface.
 
-I work across the entire stack — UI, APIs, database design, containerization, and cloud deployment — and prefer environments where engineers take end-to-end ownership.
+I work across the entire stack — UI, APIs, database design, containerization, and CI — and prefer environments where engineers take end-to-end ownership.
 
-- Shipping AI dashboards + RAG data chat with **DuckDB**, **pgvector**, and **Claude API**
+- **GenAI:** RAG (chunking → embeddings → pgvector → grounded generation with citations), hybrid search (semantic + full-text fused by Reciprocal Rank Fusion), LangGraph tool-using agents, prompt-injection & PII guards, retrieval metrics + RAGAS evaluation, token/latency observability
+- **Full stack:** Next.js/React frontends, FastAPI/NestJS/Express backends, PostgreSQL (incl. RLS multi-tenancy), Redis, Stripe, Docker, GitHub Actions
 - B.Tech in Information Technology — Bengal Institute of Technology, Kolkata (2023)
-- Based in India · Open to remote full-stack roles
+- Based in India · Open to GenAI / full-stack roles
 - Reach me at **sumanmandal15135@gmail.com**
 
 ---
 
 ## Tech Stack
+
+**AI & GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS_Eval-6E40C9?style=flat-square&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Frontend**
 
@@ -49,28 +71,10 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**AI & Data**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
 **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -94,6 +98,36 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 ## Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>News Aggregator + AI News Intelligence</h3>
+      <p>Async FastAPI backend that ingests RSS/REST news into Postgres and layers a full RAG system on top: pgvector semantic search, <b>hybrid retrieval</b> (full-text + vector fused by Reciprocal Rank Fusion) with metadata filters, grounded Q&amp;A with real citations, a <b>LangGraph agent</b>, prompt-injection &amp; PII guards, retrieval metrics + RAGAS evaluation, token/latency logging, and CI — 60+ tests, TDD.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+      <a href="https://github.com/man-su-97/news-app-server">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>PRISM — AI Analytics SaaS</h3>
+      <p>Multi-tenant SaaS that turns CSV/Excel/Sheets uploads into auto-generated dashboards (KPI tiles, charts, drag-and-drop layout). An <b>LLM agent in a structured tool-use loop</b> generates and validates SQL over a DuckDB + Parquet engine, streams answers over SSE with multi-turn prompt caching. PostgreSQL RLS per-org isolation, Stripe billing with LLM token entitlements, Redis rate limiting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+        <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+      <a href="https://github.com/man-su-97/Prism">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>AI Data Analytics Dashboard</h3>
