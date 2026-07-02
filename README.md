@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header" width="100%"/>
-
-# Suman Mandal
-### Full Stack Developer · GenAI & RAG Engineering · Next.js · FastAPI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=220&section=header&text=Suman%20Mandal&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=GenAI%20%26%20Full-Stack%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Next.js%20%C2%B7%20FastAPI&descSize=18&descAlignY=78" width="100%"/>
 
 <a href="mailto:sumanmandal15135@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -15,15 +12,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+LLM-powered+products+end+to+end;RAG+%7C+Hybrid+Search+%7C+LangGraph+Agents+%7C+Evaluation;Next.js+%2B+FastAPI+%2B+Docker+%2B+GitHub+Actions;2%2B+years+shipping+production+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+LLM-powered+products+end+to+end;RAG+%7C+Hybrid+Search+%7C+LangGraph+Agents+%7C+Evaluation;Next.js+%2B+FastAPI+%2B+Docker+%2B+GitHub+Actions;2%2B+years+shipping+production+code)](https://git.io/typing-svg)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
 ## About Me
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 Full Stack Developer with **2+ years** of production experience, now specialising in **GenAI / LLM engineering** — building RAG pipelines, agents, and the production engineering around them (evaluation, safety, observability). Currently at **A&J Intelli Systems**, where I lead the RAG pipeline behind an AI analytics platform that turns CSV/Excel datasets into dashboards with a natural-language chat interface.
 
@@ -35,51 +34,42 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 - Based in India · Open to GenAI / full-stack roles
 - Reach me at **sumanmandal15135@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
 ## Tech Stack
 
+<div align="center">
+
 **AI & GenAI**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS_Eval-6E40C9?style=flat-square&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/RAGAS_Eval-6E40C9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
 
-**Backend**
+<br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Languages & Frameworks**
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,redux,nodejs&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,express,postgres,redis,mongodb,prisma,graphql&perline=8" />
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+<br/><br/>
 
-**DevOps & Infrastructure**
+**DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,vercel,git,linux,vscode,figma&perline=8" />
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
 ## GitHub Stats
 
@@ -90,10 +80,13 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=man-su-97&theme=radical"/>
-  <img height="130" src="https://github-profile-trophy.vercel.app/?username=man-su-97&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </p>
 
----
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=man-su-97&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=6E40C9&point=FFFFFF" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
 ## Featured Projects
 
@@ -115,7 +108,7 @@ I work across the entire stack — UI, APIs, database design, containerization, 
     </td>
     <td width="50%" valign="top">
       <h3>PRISM — AI Analytics SaaS</h3>
-      <p>Multi-tenant SaaS that turns CSV/Excel/Sheets uploads into auto-generated dashboards (KPI tiles, charts, drag-and-drop layout). An <b>LLM agent in a structured tool-use loop</b> generates and validates SQL over a DuckDB + Parquet engine, streams answers over SSE with multi-turn prompt caching. PostgreSQL RLS per-org isolation, Stripe billing with LLM token entitlements, Redis rate limiting.</p>
+      <p>Multi-tenant SaaS monorepo (Next.js + FastAPI) that turns CSV/Excel/Sheets uploads into auto-generated dashboards (KPI tiles, charts, drag-and-drop layout). An <b>LLM agent in a structured tool-use loop</b> generates and validates SQL over a DuckDB + Parquet engine, streams answers over SSE with multi-turn prompt caching. PostgreSQL RLS per-org isolation, auth with 2FA, Stripe billing with LLM token entitlements, Alembic migrations, CI.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -145,12 +138,13 @@ I work across the entire stack — UI, APIs, database design, containerization, 
     </td>
     <td width="50%" valign="top">
       <h3>PleaseYourself — E-Commerce Platform</h3>
-      <p>Full-stack e-commerce app with product listing, cart, auth, and order management. RTK Query for state, Redis caching, and Cloudinary for media delivery.</p>
+      <p>Full-stack e-commerce app (React + Express + MongoDB) with product catalog, cart, auth, and order management. <b>Razorpay &amp; Stripe</b> payment integrations, Redis caching (ioredis), and Cloudinary media delivery.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
       </p>
       <a href="https://github.com/man-su-97/ecommerce-app-py">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
@@ -159,7 +153,7 @@ I work across the entire stack — UI, APIs, database design, containerization, 
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
 ## Contribution Heatmap
 
@@ -173,6 +167,4 @@ I work across the entire stack — UI, APIs, database design, containerization, 
   <img src="https://komarev.com/ghpvc/?username=man-su-97&style=flat-square&color=6E40C9&label=Profile+Views" />
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=120&section=footer" width="100%"/>
