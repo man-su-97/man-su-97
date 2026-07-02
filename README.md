@@ -46,11 +46,9 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/RAGAS_Eval-6E40C9?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
 
 <br/><br/>
@@ -59,13 +57,13 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,redux,nodejs&perline=8" />
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nestjs,express,postgres,redis,mongodb,prisma,graphql&perline=8" />
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,express,postgres,redis,mongodb&perline=8" />
 
 <br/><br/>
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,vercel,git,linux,vscode,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git&perline=8" />
 
 </div>
 
