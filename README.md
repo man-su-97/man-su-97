@@ -130,15 +130,16 @@ I work across the entire stack — UI, APIs, database design, containerization, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>AI Data Analytics Dashboard</h3>
-      <p>Converts CSV/Excel uploads into interactive charts and KPI dashboards. Includes a chat interface for querying dataset insights using RAG, drag-and-drop layout, and optimized data fetching.</p>
+      <h3>AI Dashboard Lab</h3>
+      <p>Prototyping lab where dashboard ideas get spiked before production: draggable widget grid, AI chat with <b>multi-provider LLMs</b> (OpenAI / Anthropic / Gemini / HuggingFace via LangChain), CSV/Excel/PDF document insights, voice input, and a MediaMTX RTSP→HLS gateway for live video widgets.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
       </p>
-      <a href="https://github.com/man-su-97/draggable-react-grid-layout">
+      <a href="https://github.com/man-su-97/ai-dashboard-lab">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
