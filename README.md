@@ -25,8 +25,6 @@
 
 ## About Me
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
-
 Full Stack Developer with **2+ years** of production experience, now specialising in **GenAI / LLM engineering** — building RAG pipelines, agents, and the production engineering around them (evaluation, safety, observability). Currently at **A&J Intelli Systems**, where I lead the RAG pipeline behind an AI analytics platform that turns CSV/Excel datasets into dashboards with a natural-language chat interface.
 
 I work across the entire stack — UI, APIs, database design, containerization, and CI — and prefer environments where engineers take end-to-end ownership.
@@ -35,8 +33,6 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 - **Full stack:** Next.js/React frontends, FastAPI/NestJS/Express backends, PostgreSQL (incl. RLS multi-tenancy), Redis, Stripe, Docker, GitHub Actions
 - B.Tech in Information Technology — Bengal Institute of Technology, Kolkata (2023)
 - Based in India · Open to GenAI / full-stack roles
-
-<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
