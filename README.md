@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=220&section=header&text=Suman%20Mandal&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=GenAI%20%26%20Full-Stack%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Next.js%20%C2%B7%20FastAPI&descSize=18&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=140&section=header" width="100%"/>
+
+# Suman Mandal
+### GenAI & Full-Stack Engineer · RAG · Agents · Next.js · FastAPI
 
 <a href="mailto:sumanmandal15135@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -14,15 +17,15 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+LLM-powered+products+end+to+end;RAG+%7C+Hybrid+Search+%7C+LangGraph+Agents+%7C+Evaluation;Next.js+%2B+FastAPI+%2B+Docker+%2B+GitHub+Actions;2%2B+years+shipping+production+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+LLM-powered+products+end+to+end;RAG+%7C+Hybrid+Search+%7C+LangGraph+Agents+%7C+Evaluation;2%2B+years+shipping+production+code)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
 ## About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 Full Stack Developer with **2+ years** of production experience, now specialising in **GenAI / LLM engineering** — building RAG pipelines, agents, and the production engineering around them (evaluation, safety, observability). Currently at **A&J Intelli Systems**, where I lead the RAG pipeline behind an AI analytics platform that turns CSV/Excel datasets into dashboards with a natural-language chat interface.
 
@@ -32,9 +35,10 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 - **Full stack:** Next.js/React frontends, FastAPI/NestJS/Express backends, PostgreSQL (incl. RLS multi-tenancy), Redis, Stripe, Docker, GitHub Actions
 - B.Tech in Information Technology — Bengal Institute of Technology, Kolkata (2023)
 - Based in India · Open to GenAI / full-stack roles
-- Reach me at **sumanmandal15135@gmail.com**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
 ## Tech Stack
 
@@ -69,24 +73,20 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://my-stats-43gk.vercel.app/api?username=man-su-97&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=300" />
-  <img height="180" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=man-su-97&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" />
+  <img height="175" src="https://my-stats-43gk.vercel.app/api?username=man-su-97&show_icons=true&theme=tokyonight&hide=contribs,issues&rank_icon=github&include_all_commits=true&card_width=300&hide_border=true" />
+  <img height="175" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=man-su-97&hide=html,scss,css&langs_count=8&layout=compact&theme=tokyonight&card_width=300&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=man-su-97&theme=radical"/>
+  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=man-su-97&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=6E40C9&point=FFFFFF" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=man-su-97&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=6E40C9&point=FFFFFF" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
 ## Featured Projects
 
@@ -153,18 +153,4 @@ I work across the entire stack — UI, APIs, database design, containerization, 
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
-
-## Contribution Heatmap
-
-<p align="center">
-  <img src="contributions.svg" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=man-su-97&style=flat-square&color=6E40C9&label=Profile+Views" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" width="100%"/>
