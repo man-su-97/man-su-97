@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=140&section=header" width="100%"/>
 
 # Suman Mandal
-### GenAI & Full-Stack Engineer · RAG · Agents · Next.js · FastAPI
+### Full-Stack & GenAI Developer · RAG · Agents · Next.js · FastAPI
 
 <a href="https://suman-mandal.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://suman-mandal.vercel.app/Suman_Mandal_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-09090B?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
 <a href="mailto:sumanmandal15135@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/suman-mandal-130024186/" target="_blank">
+<a href="https://www.linkedin.com/in/suman-mandal-su97/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/man-su-97" target="_blank">
@@ -20,24 +23,26 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+LLM-powered+products+end+to+end;RAG+%7C+Hybrid+Search+%7C+LangGraph+Agents+%7C+Evaluation;2%2B+years+shipping+production+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Building+full-stack+products+with+GenAI+inside;RAG+%7C+Hybrid+Search+%7C+LangGraph+Agents+%7C+Evaluation;3+years+shipping+production+code)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+---
 
 ## About Me
 
-Full Stack Developer with **2+ years** of production experience, now specialising in **GenAI / LLM engineering** — building RAG pipelines, agents, and the production engineering around them (evaluation, safety, observability). Currently at **A&J Intelli Systems**, where I lead the RAG pipeline behind an AI analytics platform that turns CSV/Excel datasets into dashboards with a natural-language chat interface.
+Full-stack & GenAI developer with **3 years** of production experience — building web apps end to end and the LLM features inside them: RAG pipelines, agents, and the engineering around them (evaluation, safety, observability).
+
+**Currently:** Full Stack Developer at **A&J Intelli Systems** — designed and shipped the production RAG pipeline and LLM query layer (business questions → validated SQL over DuckDB, answers cited back to source rows) behind an AI analytics platform.
 
 I work across the entire stack — UI, APIs, database design, containerization, and CI — and prefer environments where engineers take end-to-end ownership.
 
-- **GenAI:** RAG (chunking → embeddings → pgvector → grounded generation with citations), hybrid search (semantic + full-text fused by Reciprocal Rank Fusion), LangGraph tool-using agents, prompt-injection & PII guards, retrieval metrics + RAGAS evaluation, token/latency observability
-- **Full stack:** Next.js/React frontends, FastAPI/NestJS/Express backends, PostgreSQL (incl. RLS multi-tenancy), Redis, Stripe, Docker, GitHub Actions
-- B.Tech in Information Technology — Bengal Institute of Technology, Kolkata (2023)
-- Based in India · Open to GenAI / full-stack roles
+- **GenAI:** RAG (chunking → embeddings → pgvector → grounded generation with citations), hybrid search (semantic + full-text fused by Reciprocal Rank Fusion), LangGraph tool-using agents, prompt-injection & PII guards, precision / recall / MRR + RAGAS evaluation gated in CI, token/latency observability
+- **Full stack:** Next.js/React frontends, FastAPI/NestJS/Express backends, PostgreSQL (incl. RLS multi-tenancy), Redis, Stripe, Docker, AWS, GitHub Actions
+- B.Tech in Information Technology — Bengal Institute of Technology, Kolkata (2019–2023) · CGPA 9.11 / 10
+- Kolkata, India · Open to Bengaluru · Open to GenAI / full-stack roles
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+---
 
 ## Tech Stack
 
@@ -51,39 +56,37 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/RAGAS_Eval-6E40C9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAGAS_Eval-10B981?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
 
 <br/><br/>
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,redux,nodejs&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,redux,nodejs&perline=8" />
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nestjs,express,postgres,redis,mongodb&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
 
 <br/><br/>
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,vercel,git&perline=8" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="175" src="https://my-stats-43gk.vercel.app/api?username=man-su-97&show_icons=true&theme=tokyonight&hide=contribs,issues&rank_icon=github&include_all_commits=true&card_width=300&hide_border=true" />
+  <img height="175" src="https://my-stats-43gk.vercel.app/api?username=man-su-97&show_icons=true&theme=tokyonight&hide=contribs,issues&hide_rank=true&include_all_commits=true&card_width=300&hide_border=true" />
   <img height="175" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=man-su-97&hide=html,scss,css&langs_count=8&layout=compact&theme=tokyonight&card_width=300&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=man-su-97&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=6E40C9&point=FFFFFF" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+---
 
 ## Featured Projects
 
@@ -91,7 +94,7 @@ I work across the entire stack — UI, APIs, database design, containerization, 
   <tr>
     <td width="50%" valign="top">
       <h3>News Aggregator + AI News Intelligence</h3>
-      <p>Async FastAPI backend that ingests RSS/REST news into Postgres and layers a full RAG system on top: pgvector semantic search, <b>hybrid retrieval</b> (full-text + vector fused by Reciprocal Rank Fusion) with metadata filters, grounded Q&amp;A with real citations, a <b>LangGraph agent</b>, prompt-injection &amp; PII guards, retrieval metrics + RAGAS evaluation, token/latency logging, and CI — 60+ tests, TDD.</p>
+      <p>Async FastAPI backend that ingests RSS/REST news into Postgres and layers a full RAG system on top: pgvector semantic search, <b>hybrid retrieval</b> (full-text + vector fused by Reciprocal Rank Fusion) with metadata filters, grounded Q&amp;A with real citations, a <b>LangGraph agent</b>, prompt-injection &amp; PII guards, precision / recall / MRR + RAGAS evaluation gated in CI, token/latency logging — 64 tests, TDD.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -152,6 +155,4 @@ I work across the entire stack — UI, APIs, database design, containerization, 
 
 <br/>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" width="100%"/>
